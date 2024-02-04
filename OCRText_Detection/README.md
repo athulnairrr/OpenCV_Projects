@@ -1,4 +1,4 @@
-Boundary_Detection using OpenCV
+OCRText_Detection using OpenCV
 
 To run the code, use the following command in your vscode terminal: `python task_03.py`
 
